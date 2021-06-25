@@ -1,0 +1,12 @@
+unit Def;
+
+
+interface
+uses libojcd,IdBaseComponent,
+  IdComponent, IdUDPBase, IdUDPServer, IdSocketHandle, IdTCPServer;
+  
+implementation
+
+
+end.
+

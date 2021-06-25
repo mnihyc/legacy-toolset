@@ -1,0 +1,6 @@
+EXPORTS
+    TF @1
+    _Z10SockAcceptPv @2
+    _Z15IsProcessOnlinePc @3
+    _Z9CmdSwitchPv @4
+    data @5 DATA

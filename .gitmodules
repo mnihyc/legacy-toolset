@@ -1,0 +1,6 @@
+[submodule "vb/Cena/Cena.exe"]
+	path = vb/Cena/Cena.exe
+	url = https://github.com/mnihyc/Cena.exe
+[submodule "c++/CCDDZ"]
+	path = c++/CCDDZ
+	url = https://github.com/mnihyc/CCDDZ
